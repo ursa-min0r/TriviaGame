@@ -1,0 +1,22 @@
+body {
+    font-family: 'Cute Font', cursive;
+    box-sizing: border-box;
+    text-align: center;
+    background-image: url("https://i.ibb.co/q1M74RM/fullsizeoutput-29d.jpg");
+    
+  }
+
+ .mainBody, #mainHeader {
+    background-color: white;
+    color: black;
+    max-width: 960px;
+    margin: auto;
+    line-height: 20px;
+  }
+
+  @media only screen and (max-width: 980px) {
+    .body1 {
+      width: 400px;
+    }
+  
+  }

@@ -1,0 +1,3 @@
+var keanuQuestions = [];
+
+var keanuAnswers = [];
